@@ -1,0 +1,12 @@
+{
+	"name": "rplaceiazu",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=rplace.database.windows.net;initial catalog=rplaceiazu;user id=arcanite",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDNFMzY2OTJFLUFGQzYtNDUxNC1BNzA1LUYwQzFEQjYxNjBDM18wN2YyZWY1Yy1jMTRmLTRlYjAtOTc2Yi1lYzBlMmQ2NjAxYjkiDQp9"
+		}
+	}
+}
