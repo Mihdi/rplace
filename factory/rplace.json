@@ -1,0 +1,9 @@
+{
+	"name": "rplace",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ad3abdc-18b2-41ab-80e7-70c3b9c4d8bc",
+		"tenantId": "3534b3d7-316c-4bc9-9ede-605c860f49d2"
+	}
+}
